@@ -64,7 +64,10 @@
   margin: 103px 365px;
   border-radius: 18px;
 }
-
+.two{
+  margin:10px;
+  padding:5px;
+}
 /* section two  css*/
 .two h1 {
   text-align: center;
